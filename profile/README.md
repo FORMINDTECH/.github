@@ -18,8 +18,8 @@
 
 ## About Us
 
-**FORMIND** é uma empresa de tecnologia dedicada ao desenvolvimento de soluções digitais inteligentes.  
-Nosso principal produto é o **GYM IA**, um sistema que combina **inteligência artificial** e **análise de dados** para otimizar a experiência em academias, melhorando a performance e gestão de treinos.
+**Arko Tech** é uma empresa de tecnologia dedicada ao desenvolvimento de soluções digitais inteligentes.  
+Nosso principal produto é o **Arko Health**, um sistema que combina **inteligência artificial** e **análise de dados** para otimizar a experiência entre alunos e professores, melhorando a performance e gestão de treinos/dieta.
 
 <br/>
 
