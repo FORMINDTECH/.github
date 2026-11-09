@@ -27,8 +27,8 @@ Nosso principal produto é o **GYM IA**, um sistema que combina **inteligência 
 
 <img align="left" height="94px" width="94px" alt="GYM IA Logo" src="https://api-bolsistasregistro.tecnomaub.site/uploads/projects/project_1758739080392.jpeg"/>
 
-**GYM IA** \
-Sistema inteligente para academias \
+**Arko Health** \
+Sistema inteligente para profissionais da saúde e apaixonados pelo esporte \
 Tecnologias: `Node.js`, `React`, `Python`, `TypeScript`, `SQL` \
 Principais funcionalidades:
 - Gestão inteligente de treinos  
